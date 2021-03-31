@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bc8ba7d-8c51-422e-9138-40a022c2d577" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/androidTest/java/ceti/smarthomegina/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/androidTest/java/ceti/smarthomegina/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/java/ceti/smarthomegina/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/java/ceti/smarthome/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/app/src/test/java/ceti/smarthomegina/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/app/src/test/java/ceti/smarthome/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/SmartHomeGina/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Android/SmartHome/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arduino/SmartHomeGina/SmartHomeGina/SmartHomeGina.ino" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino/SmartHome/SmartHome/SmartHome.ino" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qVKDfWfZFfyfw5Bfmwq0mo1xTQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bc8ba7d-8c51-422e-9138-40a022c2d577" name="Default Changelist" comment="" />
+      <created>1617159198145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617159198145</updated>
+    </task>
+    <servers />
+  </component>
+</project>
